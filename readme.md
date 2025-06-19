@@ -315,4 +315,6 @@ Author: Arman Kumar, Himanshu Kumar
 Backend: PHP + Python + MySQL + ML
 Monitoring Tools: PSAD, Custom Scripts
 
+Developer: Arman Kumar
+
 ---
