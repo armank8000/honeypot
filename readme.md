@@ -224,5 +224,3 @@ Backend: PHP + Python + MySQL + ML
 Monitoring Tools: PSAD, Custom Scripts
 
 ---
-
-Would you like this converted into a downloadable PDF or GitHub-ready `README.md` file?
