@@ -74,7 +74,9 @@ Our project is a **Honeypot-as-a-Service** platform that **detects, logs, analyz
 * No manual refresh needed.
 * Everything updates seamlessly via fetch + JSON every 5 seconds.
 
+
 ---
+
 
 ### ⚙️ Tech Stack:
 
@@ -90,14 +92,6 @@ Our project is a **Honeypot-as-a-Service** platform that **detects, logs, analyz
 | Deployment         | VPS / Localhost with Port Forwarding |
 
 
-
----
-
-### 💬 Elevator Pitch:
-
-> "This project is your AI-powered cybersecurity analyst—quietly sitting on your server, watching every move, predicting malicious intent, and defending your system — all live on one dashboard. It’s the future of intrusion detection — available now."
-
----
 
 
 ## ✅ Requirements
@@ -320,8 +314,5 @@ Monitoring Tools: PSAD, Custom Scripts
 **Arman Kumar**
 Cybersecurity | OSINT | AI Security Projects
 [GitHub](https://github.com/armank8000) | [LinkedIn](https://linkedin.com/in/arman-kumar8000)
-
----
-
 
 ---
